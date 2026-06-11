@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Adonis Canada
+I'm a Computer Science graduate from the University of Connecticut, with a concentration in Cybersecurity and a minor in Mathematics. I build full-stack software encompassing security, education, and problem-solving.
 
-<!--
-**adoniscanada/adoniscanada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- **Scratchpad** - a full-stack collaboration and code-review platform that brings Git-style version control to MIT Scratch block coding. Students and educators can share project, create branches called "Remixes," and get AI-generated feedback. Built with React, TypeScript, Next.js, and MongoDB.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+### Frameworks & Tools
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+### Just for fun
+[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)
+
+---
+
+## A bit more
+My path into code started far before college, where I used MATLAB and C++ to create autonomous movement in a FIRST Robotics team, and competed in game jams using GameMaker and Godot. In working towards my CS degree, I grew to focus on real-world impact, especially in security and education. Currently, I teach Computer Science to K-12 students at theCoderSchool, while furthering my own education as a Flatiron apprentice.
+
+## Reach me
+- Email: adonis.a.canada@gmail.com
+- LinkedIn: [linkedin.com/in/adoniscanada](https://linkedin.com/in/adoniscanada)
+- Games: [adonisdevs.itch.io/](https://adonisdevs.itch.io/)
