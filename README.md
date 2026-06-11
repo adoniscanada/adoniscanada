@@ -1,8 +1,14 @@
 # Hi, I'm Adonis Canada
 I'm a Computer Science graduate from the University of Connecticut, with a concentration in Cybersecurity and a minor in Mathematics. I build full-stack software encompassing security, education, and problem-solving.
 
+**Teaching Computer Science to K-12 students at [theCoderSchool](https://www.thecoderschool.com/) and Wethersfield Public Schools, while furthering my own education as a [Flatiron](https://flatironschool.com) apprentice. :mortar_board:**
+
+---
+
 ## What I'm working on
-- **Scratchpad** - a full-stack collaboration and code-review platform that brings Git-style version control to MIT Scratch block coding. Students and educators can share project, create branches called "Remixes," and get AI-generated feedback. Built with React, TypeScript, Next.js, and MongoDB.
+
+- **Scratchpad**, a full-stack collaboration and code-review platform that brings Git-style version control to MIT Scratch block coding. Students and educators can share projects, contribute "Remixes,", and get Claude-generated feedback. Built with React, TypeScript, Next.js, and MongoDB.
+**[Live Demo](https://scratchpad-sigma.vercel.app/) · [Repo](https://github.com/HunterCogan/scratchpad)**
 
 ---
 
@@ -36,10 +42,10 @@ I'm a Computer Science graduate from the University of Connecticut, with a conce
 
 ---
 
-## A bit more
-My path into code started far before college, where I used MATLAB and C++ to create autonomous movement in a FIRST Robotics team, and competed in game jams using GameMaker and Godot. In working towards my CS degree, I grew to focus on real-world impact, especially in security and education. Currently, I teach Computer Science to K-12 students at theCoderSchool, while furthering my own education as a Flatiron apprentice.
+## More about me
+My path into code started far before college, where I used MATLAB and C++ to create autonomous movement in a FIRST Robotics team, and competed in game jams using GameMaker and Godot. In working towards my CS degree, I grew to focus on real-world impact, especially in security and education.
 
-## Reach me
+## Reach out
 - Email: adonis.a.canada@gmail.com
 - LinkedIn: [linkedin.com/in/adoniscanada](https://linkedin.com/in/adoniscanada)
 - Games: [adonisdevs.itch.io/](https://adonisdevs.itch.io/)
