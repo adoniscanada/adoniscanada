@@ -58,4 +58,5 @@ My path into code started far before college, where I used MATLAB and C++ to cre
 
 - Email: adonis.a.canada@gmail.com
 - LinkedIn: [linkedin.com/in/adoniscanada](https://linkedin.com/in/adoniscanada)
-- Games: [adonisdevs.itch.io/](https://adonisdevs.itch.io/)
+- Portfolio: [canadaa.org](https://canadaa.org)
+- Games: [adonisdevs.itch.io](https://adonisdevs.itch.io)
