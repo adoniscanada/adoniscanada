@@ -7,11 +7,11 @@ I'm a Computer Science graduate from the University of Connecticut, with a conce
 
 ## My current project
 
-- **Scratchpad**, a full-stack collaboration and code-review platform that brings Git-style version control to MIT Scratch block coding. Students and educators can share projects, contribute "Remixes," and get Claude-generated feedback. Built with React, TypeScript, Next.js, and MongoDB.
-**[Live Demo](https://scratchpad-sigma.vercel.app/) · [Repo](https://github.com/HunterCogan/scratchpad)**
+- **Mixgit**, a full-stack collaboration and code-review platform that brings Git-style version control to MIT Scratch block coding. Students and educators can share projects, contribute "Remixes," and get Claude-generated feedback. Built with React, TypeScript, Next.js, and MongoDB.
+**[Live Demo](https://mixgit.tech/adonis) · [Repo](https://github.com/HunterCogan/mixgit)**
 
 <p align="center">
-<img width="756" height="404" alt="Screenshot 2026-06-11 at 12 33 23 AM" src="https://github.com/user-attachments/assets/705f8ef1-f0ba-4dea-a3d2-f39d335b8b96" />
+<img width="756" height="407" alt="Screenshot 2026-07-08 at 10 38 22 PM" src="https://github.com/user-attachments/assets/efbf59b4-c6df-4f53-a88f-254875f9a848" />
 </p>
 
 ---
